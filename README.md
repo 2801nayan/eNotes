@@ -1,12 +1,16 @@
 # eNotes - Your Notes With You.
-eNotes is the online web platform where you can make your notes and that will be saved on cloud so you can access your notes from anywhere, anytime from any machine you just need to login into your enotes account.
 
-## eNotes is made using : 
-frontend : HTML CSS and React
-backend : Express js, MongoDB, Nodejs
+## eNotes Description : 
+eNotes is the online web platform where you can make your notes and that will be saved until you remove them and access your notes from anywhere, anytime from any machine you just need to login into your enotes account.
+### eNotes : Developed Using MERN Stack
+first of all its very interesting. and as react is much popular for frontend development and to start something new i choose react its very easy to learn and understand. And i learn MERN stack using this project and willing to explore more in MERN stack by creating projects like this.
+
+## How to Run project : 
+You just newd to clone repo and then open in any code editor and type command "npm run both"
+by typing this command your backend server and react both will start and then you will be able to run project.
 
 ## Available Features of eNotes : 
-### Add Note, Read Note, Update Note, Delete Note.
+Add Note, Read Note, Update Note, Delete Note.
 
 ## Let's have a look at project : 
 
