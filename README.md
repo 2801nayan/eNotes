@@ -1,5 +1,9 @@
-# eNotes - Your Notes With You
-### this project is about notes that we like to make here user can manage their notes easily.
+# eNotes - Your Notes With You.
+eNotes is the online web platform where you can make your notes and that will be saved on cloud so you can access your notes from anywhere, anytime from any machine you just need to login into your enotes account.
+
+## eNotes is made using : 
+frontend : HTML CSS and React
+backend : Express js, MongoDB, Nodejs
 
 ## Available Features of eNotes : 
 ### Add Note, Read Note, Update Note, Delete Note.
